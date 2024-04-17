@@ -9,7 +9,7 @@
     Brush="White"/>
 
     <Style TargetType="Button">
-        <!--<Setter Property="Shadow" Value="{StaticResource Shadow}"/>-->
+        <Setter Property="Shadow" Value="{StaticResource Shadow}"/>
         <Setter Property="VisualStateManager.VisualStateGroups">
             <VisualStateGroupList>
                 <VisualStateGroup x:Name="CommonStates">
